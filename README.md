@@ -1,1 +1,1 @@
-# css-reset-all
+# css reset - all unset
